@@ -1,0 +1,42 @@
+
+#App {
+  margin-top: 10px;
+}
+
+#bordure {
+  background-color: rgb(158,187,31);
+  height: 30px;
+}
+
+.titre {
+  font-size: 1.5em;
+  color: rgb(158,187,31);
+  margin-bottom: 5px;
+}
+
+.texte {
+  text-align: justify;
+}
+
+.bloc {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.bold {
+  font-weight: bold;
+}
+.nom {
+  text-align: center;
+  font-weight: bold;
+}
+
+.statut  {
+  text-align: center;
+  font-style: italic;
+}
+
+#photo {
+  width: 75%;
+  margin: auto;
+}
