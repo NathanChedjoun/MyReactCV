@@ -5,4 +5,4 @@ Installer nodeJs (environnement d'exécution JavaScript)
 
 ## Comment lancer l'application web ?
 Une fois dans le dossier du projet, éxécuter la commande `npm start`
-Ouvrer le lieen [http://localhost:3000](http://localhost:3000) pour voir le résultat sur votre navigateur
+Ouvrez le lien [http://localhost:3000](http://localhost:3000) pour voir le résultat sur votre navigateur
